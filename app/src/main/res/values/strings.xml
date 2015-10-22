@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">How-Old</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="choice_rtv_text">选择照片</string>
+    <string name="wait_tv_erro1">网络异常。。</string>
+    <string name="wait_tv_erro2">未分析出脸部。。</string>
+    <string name="wait_tv_start">正在分析。。。</string>
+    <string name="repress_quit">再按一次退出</string>
+    <string name="wait_tv_result">分析完成！！</string>
+    <string name="wait_tv_noface">没有找到Face..</string>
+    <string name="shard">分享</string>
+    <string name="save">保存</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
